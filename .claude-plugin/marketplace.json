@@ -1,0 +1,13 @@
+{
+  "name": "mission-mod",
+  "description": "Mission pane and per-role model routing for mission-skill missions",
+  "owner": {
+    "name": "brogrammerMW"
+  },
+  "plugins": [
+    {
+      "name": "mission",
+      "source": "./"
+    }
+  ]
+}

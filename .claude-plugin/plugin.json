@@ -1,0 +1,8 @@
+{
+  "name": "mission",
+  "version": "0.1.0",
+  "description": "Run mission-skill missions with a live status pane and per-role Claude model routing",
+  "types": "./types/index.d.ts",
+  "license": "MIT",
+  "repository": "https://github.com/brogrammerMW/mission-mod"
+}
